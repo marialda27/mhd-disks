@@ -1,0 +1,18 @@
+En breve hago una buena descripcion en cada codigo.
+
+prueba1er.R
+Para probar si anda bien el grafico de las lineas de campo con el algoritmo de primer orden.
+Se generan datos al azar, se da un campo analitico, y se da una posicion inicial.
+
+prueba2do.R
+Para probar si anda bien el grafico de las lineas de campo con el algoritmo de segundo orden.
+
+1er_snapshot.R
+Prueba para graficar lineas de campo, con el metodo de primer orden, sobre datos de snapshots.
+
+plot_lineas.R
+Una ayuda para graficar varias lineas de campo, gracias a que se puede paralelizar el calculo de
+la generacion de distintas lineas de campo
+
+vectores.R
+Leyendo datos de snapshots, graficar el campo vectorial.
